@@ -109,8 +109,6 @@ mempool_only=false
 3. use the Standard coding style when hacking the code - https://github.com/feross/standard
 4. Send us a pull request
 
-## License
-
 [js-standard-url]: https://github.com/feross/standard
 [js-standard-image]: https://cdn.rawgit.com/feross/standard/master/badge.svg
 [npm-image]: https://badge.fury.io/js/cc-block-explorer.svg
